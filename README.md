@@ -6,8 +6,11 @@ The agent controls the movement of a character in a grid world. Some tiles of th
 ![alt text](https://miro.medium.com/max/600/1*Zf_ozFRh4ZqhOI-RfkZfxA.gif "FrozenLake-v0")
 
 S:Safe
+
 F:Frozen
+
 H:Hole
+
 G:Goal
 
 ## CartPole-v0
